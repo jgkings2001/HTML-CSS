@@ -93,3 +93,11 @@ a {
 .container {
     display: flex;
 }
+
+.cakeitem {
+
+    border: 1px dashed yellow;
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+}
